@@ -1,4 +1,6 @@
-# Simple Weather App
+# Weather App
+
+![weather_app_screenshot](https://user-images.githubusercontent.com/24871480/130389162-5ae679bc-ee6d-425a-b928-6bacbd7ed3fb.png)
 
 ## API
 Data is pulled from the OpenWeather API. Currently, the query is harded coded to get the current weather for Kyoto, Japan.
